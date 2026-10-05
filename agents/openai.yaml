@@ -1,0 +1,4 @@
+interface:
+  display_name: "个人开发者开发 SKILL"
+  short_description: "给一个人做项目用的开发纪律：证据说话、横评选型、止血划界、交付可自证"
+  default_prompt: "用 $personal-dev-skill 帮我按这套纪律检查当前项目：先跑一次体检，列出没接线/静默失败/硬编码的地方，再按【止血→划界→统一→下沉】给我排顺序（给选项、风险、一次改几个文件，⛔ 别替我拍板）。"
